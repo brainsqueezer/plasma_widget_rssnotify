@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#FFFFFF">
+]>
+<svg enable-background="new 0 0 55 55" height="55px" version="1.1" viewBox="0 0 55 55" width="55px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g display="block" id="activity-gmail">
+	<rect fill="#FFFFFF" height="31.463" id="rect3202" stroke="#010101" stroke-width="3.5" width="43" x="5.875" y="11.768"/>
+	<polygon fill="#010101" points="48.875,11.768 39.199,11.768 27.375,22.033 15.552,11.768 5.875,11.768 27.377,31.034"/>
+	<polyline fill="none" points="5.875,40.663 27.399,25.871 48.875,40.663" stroke="#010101" stroke-width="2.25"/>
+	<rect fill="#010101" height="31.463" width="5.7" x="5.875" y="11.768"/>
+	<rect fill="#010101" height="31.463" width="5.699" x="43.176" y="11.768"/>
+</g></svg>
